@@ -1,4 +1,0 @@
-# MyCodding
-
-test
-2
